@@ -8,8 +8,17 @@
 	</div>
 	<div class="col-8 text-center">
 		<h2 class="fs-10">경제야 놀자💰</h2>
+		<form name="searchForm" id="searchForm" action="#"
+		class="row justify-content-center my-3">
+			<div class="col-10">
+				<input type="text" name="keyword" class="form-control" />
+			</div>
+			<div class="col-auto">
+				<input type="submit" value="검	색" class="btn btn-primary" />
+			</div>
+		</form>
 	</div>
 	<div class="col-auto">
 		<a href="#" class="link-dark">Today's diary>></a>
 	</div>
-</div>
+		</div>

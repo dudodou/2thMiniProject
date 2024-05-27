@@ -32,12 +32,12 @@
 </style>
 <aside class="aside_prof mb-5" style="border:1px solid;">
 	<!--profile-->
-	<div class="row pb-3">
-		<div class="col-5 p-0" style="text-align:center;">
+	<div class="row pb-3 text-center">
+		<div class="col-6 p-0">
 			<!-- 기본 이미지  -->
 			<img src="https://toppng.com/uploads/preview/and-blank-effect-transparent-11546868080xgtiz6hxid.png" style="width:100px; height:100px;">
 		</div>
-		<div class="col-7 p-0 mt-3">
+		<div class="col-6 mt-3">
 			<p class="text-center"><b>?님,</b><br/> 반갑습니다!</p>
 		</div>
 		</div>
